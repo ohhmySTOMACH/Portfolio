@@ -1,0 +1,5 @@
+.logo {
+  color: var(--pink-20);
+  -webkit-text-stroke: 5px var(--blue-60);
+  paint-order: stroke fill;
+}

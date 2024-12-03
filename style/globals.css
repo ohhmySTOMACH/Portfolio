@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #dcf2f1;
+  --foreground: #365486;
+  --blue-60: #365486;
+  --pink-20: #f2dcdf;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-libre-baskerville), serif;
+}
